@@ -2,7 +2,7 @@ Hi, welcome to the files section of my website.
 
 My main purpose for this site was to test out my HTML,CSS & Javascript skills
 to see if I can create a few animations and simple javascript capabilities. 
-I ended up using bootstrap for my css framework to truly capture the style I was looking for.
+I ended up using bootstrap for my css framework.
 
 Please feel free to branch this project and create your own site to practice 
 manipulating files by filling in your own content.
